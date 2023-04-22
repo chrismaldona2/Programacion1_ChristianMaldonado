@@ -1,0 +1,15 @@
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.csproj.AssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\bin\Debug\net6.0\For_ChristianMaldonado.exe
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\bin\Debug\net6.0\For_ChristianMaldonado.deps.json
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\bin\Debug\net6.0\For_ChristianMaldonado.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\bin\Debug\net6.0\For_ChristianMaldonado.dll
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\bin\Debug\net6.0\For_ChristianMaldonado.pdb
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.dll
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\refint\For_ChristianMaldonado.dll
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.pdb
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\For_ChristianMaldonado.genruntimeconfig.cache
+C:\Users\Christian\Documents\GitHub\Programacion1_ChristianMaldonado\Ejercicios1\For_ChristianMaldonado\For_ChristianMaldonado\obj\Debug\net6.0\ref\For_ChristianMaldonado.dll
