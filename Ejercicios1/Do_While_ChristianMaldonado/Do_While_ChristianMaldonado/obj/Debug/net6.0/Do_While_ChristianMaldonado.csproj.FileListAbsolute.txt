@@ -1,0 +1,15 @@
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\bin\Debug\net6.0\Do_While_ChristianMaldonado.exe
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\bin\Debug\net6.0\Do_While_ChristianMaldonado.deps.json
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\bin\Debug\net6.0\Do_While_ChristianMaldonado.runtimeconfig.json
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\bin\Debug\net6.0\Do_While_ChristianMaldonado.dll
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\bin\Debug\net6.0\Do_While_ChristianMaldonado.pdb
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.dll
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\refint\Do_While_ChristianMaldonado.dll
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.pdb
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\Do_While_ChristianMaldonado.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Visual\Ejercicios1\Do_While_ChristianMaldonado\Do_While_ChristianMaldonado\obj\Debug\net6.0\ref\Do_While_ChristianMaldonado.dll
