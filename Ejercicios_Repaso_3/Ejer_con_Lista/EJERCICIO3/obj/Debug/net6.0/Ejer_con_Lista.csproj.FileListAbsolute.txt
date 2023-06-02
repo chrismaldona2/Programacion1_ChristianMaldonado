@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\Ejer_con_Lista.exe
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\Ejer_con_Lista.deps.json
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\Ejer_con_Lista.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\Ejer_con_Lista.dll
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\Ejer_con_Lista.pdb
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.dll
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\refint\Ejer_con_Lista.dll
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.pdb
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\Ejer_con_Lista.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\ref\Ejer_con_Lista.dll

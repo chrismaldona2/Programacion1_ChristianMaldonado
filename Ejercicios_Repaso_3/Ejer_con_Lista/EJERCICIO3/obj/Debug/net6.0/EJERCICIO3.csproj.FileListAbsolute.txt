@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.exe
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.deps.json
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.dll
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\bin\Debug\net6.0\EJERCICIO3.pdb
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.dll
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\refint\EJERCICIO3.dll
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.pdb
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\EJERCICIO3.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Ej3\EJERCICIO3\EJERCICIO3\obj\Debug\net6.0\ref\EJERCICIO3.dll
